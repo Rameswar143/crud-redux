@@ -68,5 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-##################### Redux Tutorial for this project ##################################
+### Redux Tutorial for this project 
 https://codeburst.io/redux-a-crud-example-abb834d763c9
